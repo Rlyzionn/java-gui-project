@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="GUI.UserSignup">
+ <grid id="27dc6" layout-manager="GridLayoutManager" row-count="8" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="10" vgap="10">
+      <margin top="20" left="20" bottom="20" right="20" />
+      <constraints>
+         <xy x="20" y="20" width="400" height="500" />
+      </constraints>
+      <properties />
+      <border type="none" />
+      <children>
+         <component id="nameLabel" class="javax.swing.JLabel" binding="nameLabel">
+            <constraints>
+               <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false" />
+            </constraints>
+            <properties>
+               <text value="Name:" />
+            </properties>
+         </component>
+         <component id="nameField" class="javax.swing.JTextField" binding="nameField">
+            <constraints>
+               <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="1" anchor="0" fill="1" indent="0" use-parent-layout="false" />
+            </constraints>
+         </component>
+         <component id="emailLabel" class="javax.swing.JLabel" binding="emailLabel">
+            <constraints>
+               <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false" />
+            </constraints>
+            <properties>
+               <text value="Email:" />
+            </properties>
+         </component>
+         <component id="emailField" class="javax.swing.JTextField" binding="emailField">
+            <constraints>
+               <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="1" anchor="0" fill="1" indent="0" use-parent-layout="false" />
+            </constraints>
+         </component>
+         <component id="passwordLabel" class="javax.swing.JLabel" binding="passwordLabel">
+            <constraints>
+               <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false" />
+            </constraints>
+            <properties>
+               <text value="Password:" />
+            </properties>
+         </component>
+         <component id="passwordField" class="javax.swing.JPasswordField" binding="passwordField">
+            <constraints>
+               <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="1" anchor="0" fill="1" indent="0" use-parent-layout="false" />
+            </constraints>
+         </component>
+         <component id="phoneLabel" class="javax.swing.JLabel" binding="phoneLabel">
+            <constraints>
+               <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false" />
+            </constraints>
+            <properties>
+               <text value="Phone:" />
+            </properties>
+         </component>
+         <component id="phoneField" class="javax.swing.JTextField" binding="phoneField">
+            <constraints>
+               <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="1" anchor="0" fill="1" indent="0" use-parent-layout="false" />
+            </constraints>
+         </component>
+         <component id="addressLabel" class="javax.swing.JLabel" binding="addressLabel">
+            <constraints>
+               <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false" />
+            </constraints>
+            <properties>
+               <text value="Address:" />
+            </properties>
+         </component>
+         <component id="addressField" class="javax.swing.JTextField" binding="addressField">
+            <constraints>
+               <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="1" anchor="0" fill="1" indent="0" use-parent-layout="false" />
+            </constraints>
+         </component>
+         <component id="dobLabel" class="javax.swing.JLabel" binding="dobLabel">
+            <constraints>
+               <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false" />
+            </constraints>
+            <properties>
+               <text value="Date of Birth (dd-MM-yyyy):" />
+            </properties>
+         </component>
+         <component id="dobField" class="javax.swing.JTextField" binding="dobField">
+            <constraints>
+               <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="1" anchor="0" fill="1" indent="0" use-parent-layout="false" />
+            </constraints>
+         </component>
+         <component id="signupButton" class="javax.swing.JButton" binding="signupButton">
+            <constraints>
+               <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false" />
+            </constraints>
+            <properties>
+               <text value="Signup" />
+            </properties>
+         </component>
+         <component id="backButton" class="javax.swing.JButton" binding="backButton">
+            <constraints>
+               <grid row="6" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false" />
+            </constraints>
+            <properties>
+               <text value="Back" />
+            </properties>
+         </component>
+      </children>
+   </grid>
+</form>
