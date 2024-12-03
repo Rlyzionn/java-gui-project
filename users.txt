@@ -1,0 +1,5 @@
+Name: John Doe, ID: U001, Email: john@example.com, Phone: 1234567890, Address: 123 Main St, DOB: 2024-11-28, Password: password
+Name: Sooraj, ID: U2, Email: sooraj@gmail.com, Phone: 1234567890, Address: dha phase 5, DOB: 2001-09-09, Password: sooraj123
+Name: weee, ID: U3, Email: we@we.com, Phone: 1234567890, Address: dsfsdcsd, DOB: 2009-09-09, Password: wewewe
+Name: maaz, ID: U4, Email: maaz@k.com, Phone: 1234567890, Address: sdsd, DOB: 2290-12-12, Password: 12345678
+Name: maaz, ID: U5, Email: maaz@gmail.com, Phone: 1234567890, Address: fgfdgv, DOB: 2001-09-09, Password: maaz123

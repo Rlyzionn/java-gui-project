@@ -1,0 +1,4 @@
+U2 | Activity: Cardio | Duration: 2.0 hrs | Calories: 450.0 | Date: 2024-11-29 00:00 | Time: 07:40
+U2 | Activity: muscle training | Duration: 2.0 hrs | Calories: 450.0 | Date: 2024-11-30 00:00 | Time: 07:40
+U3 | Activity: muscle training | Duration: 2.0 hrs | Calories: 450.0 | Date: 2024-11-30 00:00 | Time: 07:40
+
